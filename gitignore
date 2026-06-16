@@ -1,0 +1,29 @@
+# Compiled binaries
+build_host/
+build_rv/
+
+# Object files
+*.o
+*.a
+
+# Raw image files
+*.raw
+
+# Executables
+*.exe
+
+# Editor files
+.vscode/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# GoogleTest build
+googletest/build/
+
+# Temporary files
+*.tmp
+*.log
